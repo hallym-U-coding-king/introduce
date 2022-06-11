@@ -48,11 +48,11 @@
 2022) 가상현실과 증강현실 그리고 메타버스
 
 # ⛳ 목표
-1. **2학년 1학기 장학금 받기
+1. **2학년 1학기 장학금 받기**
 
 
 # 📜 자격증
 * <span style="color:red">mos excel</span>
 * <span style="color:orange">Mos Word 2016 Expert</span>
-* <span style="color:yellow">한자능력검정시험 3급</span>
+* <span style="color:yellow">한자능력검정시험3급</span>
 
