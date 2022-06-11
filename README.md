@@ -6,6 +6,7 @@
 📕학년 : 2학년<br>
 🎵취미 : 피아노 연주<br>
 🔔sns : [instagram link] :https://www.instagram.com/zzanwoo0_0/?hl=ko <br>
+
 ----
 # 📌동아리활동
 
