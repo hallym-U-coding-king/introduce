@@ -14,7 +14,9 @@
 ### 🎹코다
 * 2019년 코다 키보드파트 지원
 * 2019년 코다 정기공연
-<img src=KakaoTalk_20220525_220513230.jpg width="30%">  <img src=coda1.jpg width="30%">
+
+<img src=KakaoTalk_20220525_220513230.jpg width="40%">
+<img src=coda1.jpg width="40%">
 
 ### 🎲아이덴티티
 
